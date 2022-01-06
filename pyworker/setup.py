@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 requirements = [ 
     "redis==3.5.3", 
-    "celery==4.4.0",
+    "celery==5.2.2",
     "requests==2.23.0"
     ]
 
